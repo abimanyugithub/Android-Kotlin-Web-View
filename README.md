@@ -1,5 +1,7 @@
 # Webview Kotlin
 
+Note. Hapus tanda (*)
+
 **activity_main.xml**
 ```
 <?xml version="1.0" encoding="utf-8"?>

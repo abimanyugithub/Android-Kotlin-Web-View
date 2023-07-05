@@ -28,7 +28,6 @@ class MainActivity : AppCompatActivity() {
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
     *<uses-permission android:name="android.permission.INTERNET" />
-
     <application
         *android:usesCleartextTraffic="true"
         android:allowBackup="true"
@@ -49,7 +48,6 @@ class MainActivity : AppCompatActivity() {
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-```
     </application>
-
 </manifest>
+```

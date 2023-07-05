@@ -45,7 +45,7 @@ class MainActivity : AppCompatActivity() {
         *webView.loadUrl("http://tes.com/andon") // ganti link nya
         *val webSettings = webView.settings
         *webSettings.javaScriptEnabled = true
-        *webSettings.setDefaultFontSize(6);
+        *webSettings.defaultFontSize = 6
     }
 }
 ```
